@@ -6,5 +6,13 @@ Apa yang saya pelajari pada sub bab materi ini ?
 * Apa itu website ?
 * Server dan Client
 * Anatomi Website
-* Apa yang akan kita pelajari?
+* Apa yang Akan Kita Pelajari?
 * Requirement Tools
+* Kuis-Sub Modul Pendahuluan
+## Pengenalan HTML
+Apa yang saya pelajari pada sub bab materi ini ?
+* Pengenalan ke HTML
+* Membuat berkas HTML Pertama
+* Struktur Dasar HTML
+* Identifikasi Elemen pada Halaman Website
+* Kuis-sub modul Pengenalan HTML
